@@ -8,16 +8,6 @@ Estado Civil: 's', 'c', 'v', 'd';
 
 """
 
-"""
-
-estadoCivil = input('Estado civil: \n'
-                    's - solteiro,\n'
-                    'c - casado,\n'
-                    'v - viúvo,\n'
-                    'd - divorciado\n')
-"""
-
-
 nome = input('Digite um nome: ').title()
 while len(nome) <= 3:
     nome = input('Campo "nome" deve conter mais de 03 caracteres: ')
@@ -36,9 +26,15 @@ while sexo != 'F' and sexo != 'M':
     sexo = input('Digite um caractere válido: ').upper()
 
 estadoCivil = input('Estado civil: \n'
-                    's - solteiro,\n'
-                    'c - casado,\n'
-                    'v - viúvo,\n'
-                    'd - divorciado\n')
-while (estadoCivil != 's') and (estadoCivil != 'c') and (estadoCivil != 'v') and (estadoCivil != 'd'):
+                    'S - solteiro,\n'
+                    'C - casado,\n'
+                    'V - viúvo,\n'
+                    'D - divorciado\n').upper()
+while (estadoCivil != 'S') and (estadoCivil != 'C') and (estadoCivil != 'V') and (estadoCivil != 'D'):
     estadoCivil = input("Estado civil inválido, digite novamente: ")
+
+print(f'Nome: {nome}\n'
+      f'Idade: {idade}\n'
+      f'Salário: {salario}\n'
+      f'Sexo: {sexo}\n'
+      f'Estado Civil: {estadoCivil}')
