@@ -8,7 +8,8 @@ num = []
 for i in range(0, 5):
     n = int(input(f'Digite um número: '))
     num.append(n)
-    print(max(num))
+
+print(f'Maior número: {max(num)}')
 
 
 
