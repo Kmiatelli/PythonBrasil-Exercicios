@@ -14,7 +14,10 @@
    Estado Civil: 's', 'c', 'v', 'd'._
 
 7. _Faça um programa que leia 5 números e informe o maior número._
+
 8. _Faça um programa que leia 5 números e informe a soma e a média dos números._
+
+10. _Faça um programa que receba dois números inteiros e gere os números inteiros que estão no intervalo compreendido por eles._
 
 
 
