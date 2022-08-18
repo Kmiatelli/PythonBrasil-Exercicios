@@ -6,9 +6,3 @@
 
 ###### :file_folder: Estrutura de Repetição
 
-
-
-
-
-###### 
-
