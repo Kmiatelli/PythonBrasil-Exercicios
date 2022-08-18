@@ -30,11 +30,11 @@ ____________________________________________________________
 
 **11** - _Faça um Programa que peça 2 números inteiros e um número real. Calcule e mostre:_
 
-​		**a)** o produto do dobro do primeiro com metade do segundo.
+​		**a)** _o produto do dobro do primeiro com metade do segundo._
 
-​		**b)** a soma do triplo do primeiro com o terceiro.
+​		**b)** _a soma do triplo do primeiro com o terceiro._
 
-​		**c)** o terceiro elevado ao cubo.
+​		**c)** _o terceiro elevado ao cubo._
 
 ##### [:file_folder: Estrutura de Repetição](https://github.com/Kmiatelli/Python-Codes/tree/master/Estrutura%20Repeti%C3%A7%C3%A3o)
 
