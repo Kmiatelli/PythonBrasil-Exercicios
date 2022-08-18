@@ -36,7 +36,9 @@ ____________________________________________________________
 
 ​		**c)** _o terceiro elevado ao cubo._
 
-##### [:file_folder: Estrutura de Repetição](https://github.com/Kmiatelli/Python-Codes/tree/master/Estrutura%20Repeti%C3%A7%C3%A3o)
+##### [:file_folder: Estrutura de Repetição](https://github.com/Kmiatelli/Python-Codes/tree/master/Estrutura%20Repeti%C3%A7%C3%A3o) 
+
+###### 	:repeat: Enunciados
 
 
 
