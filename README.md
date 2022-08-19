@@ -1,9 +1,3 @@
-####  :link: URL lista de exercícios: https://wiki.python.org.br/ListaDeExercicios
-
-____________________________________________________________
-
-
-
 ### [:file_folder: Estrutura Sequencial](https://github.com/Kmiatelli/Python-Codes/tree/master/Estrutura%20Sequencial)
 
 ##### 		:memo: Enunciados
@@ -75,6 +69,14 @@ ____________________________________________________________
 **10** - _Faça um programa que receba dois números inteiros e gere os números inteiros que estão no intervalo compreendido por eles._
 
 **10.1** - _Altere o programa anterior para mostrar no final a soma dos números._
+
+
+
+###### :mag_right: Exercícios retirados da lista: 
+
+###### :link:https://wiki.python.org.br/ListaDeExercicios
+
+
 
 
 
