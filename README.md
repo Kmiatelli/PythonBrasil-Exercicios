@@ -62,8 +62,6 @@
 
 ​			= Salário Liquido : R$
 
-​				 
-
 ### [:file_folder: Estrutura de Repetição](https://github.com/Kmiatelli/Python-Codes/tree/master/Estrutura%20Repeti%C3%A7%C3%A3o) 
 
 ##### 	:repeat: Enunciados
@@ -93,6 +91,16 @@
 **10** - _Faça um programa que receba dois números inteiros e gere os números inteiros que estão no intervalo compreendido por eles._
 
 **10.1** - _Altere o programa anterior para mostrar no final a soma dos números._
+
+### [:file_folder: Estrutura De Decisão](https://github.com/Kmiatelli/Python-Codes/tree/master/Estrutura%20Decis%C3%A3o)
+
+##### :left_right_arrow: Enunciados
+
+**01.** _Faça um Programa que peça dois números e imprima o maior deles._
+
+**02.** _Faça um Programa que peça um valor e mostre na tela se o valor é positivo ou negativo._
+
+**03.** _Faça um Programa que verifique se uma letra digitada é "F" ou "M". Conforme a letra escrever: F - Feminino, M - Masculino, Sexo Inválido._
 
 
 
