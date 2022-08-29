@@ -70,7 +70,7 @@
 
 **03** - _Faça um programa que leia e valide as seguintes informações:_
 
-​		**a)** _Nome: maior que 3 caracteres;
+​		**a)** _Nome: maior que 3 caracteres;_
 
 ​		**b)** _Idade: entre 0 e 150;_
 
@@ -96,11 +96,21 @@
 
 ##### :left_right_arrow: Enunciados
 
-**01.** _Faça um Programa que peça dois números e imprima o maior deles._
+**01 - ** _Faça um Programa que peça dois números e imprima o maior deles._
 
-**02.** _Faça um Programa que peça um valor e mostre na tela se o valor é positivo ou negativo._
+**02 - ** _Faça um Programa que peça um valor e mostre na tela se o valor é positivo ou negativo._
 
-**03.** _Faça um Programa que verifique se uma letra digitada é "F" ou "M". Conforme a letra escrever: F - Feminino, M - Masculino, Sexo Inválido._
+**03 - ** _Faça um Programa que verifique se uma letra digitada é "F" ou "M". Conforme a letra escrever: F - Feminino, M - Masculino, Sexo Inválido._
+
+### :file_folder: [Listas](https://github.com/Kmiatelli/Python-Codes/tree/master/Listas)
+
+##### :bookmark_tabs:Enunciados
+
+**01 - ** _Faça um Programa que leia um vetor de 5 números inteiros e mostre-os._
+
+**02 - ** _Faça um Programa que leia um vetor de 10 números reais e mostre-os na ordem inversa._
+
+**03 - ** _Faça um Programa que leia 4 notas, mostre as notas e a média na tela._
 
 
 
