@@ -102,6 +102,20 @@
 
 **03 -** _Faça um Programa que verifique se uma letra digitada é "F" ou "M". Conforme a letra escrever: F - Feminino, M - Masculino, Sexo Inválido._
 
+**04 -** _Faça um Programa que verifique se uma letra digitada é vogal ou consoante._
+
+**05 -** _Faça um programa para a leitura de duas notas parciais de um aluno. O programa deve calcular a média alcançada por aluno e apresentar:_
+
+- _A mensagem "Aprovado", se a média alcançada for maior ou igual a sete;_
+- _A mensagem "Reprovado", se a média for menor do que sete;_
+- _A mensagem "Aprovado com Distinção", se a média for igual a dez._
+
+**06 -** _Faça um Programa que leia três números e mostre o maior deles._
+
+**07 -** _Faça um Programa que leia três números e mostre o maior e o menor deles._
+
+
+
 ### :file_folder: [Listas](https://github.com/Kmiatelli/Python-Codes/tree/master/Listas)
 
 ##### :bookmark_tabs:Enunciados
