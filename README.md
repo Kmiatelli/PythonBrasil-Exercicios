@@ -88,6 +88,8 @@
 
 **08** - _Faça um programa que leia 5 números e informe a soma e a média dos números._
 
+**09 -** _Faça um programa que imprima na tela apenas os números ímpares entre 1 e 50._
+
 **10** - _Faça um programa que receba dois números inteiros e gere os números inteiros que estão no intervalo compreendido por eles._
 
 **10.1** - _Altere o programa anterior para mostrar no final a soma dos números._
@@ -113,6 +115,8 @@
 **06 -** _Faça um Programa que leia três números e mostre o maior deles._
 
 **07 -** _Faça um Programa que leia três números e mostre o maior e o menor deles._
+
+**08 -** _Faça um programa que pergunte o preço de três produtos e informe qual produto você deve comprar, sabendo que a decisão é sempre pelo mais barato._
 
 
 
