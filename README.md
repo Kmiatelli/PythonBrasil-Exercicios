@@ -120,6 +120,10 @@
 
 **08 -** _Faça um programa que pergunte o preço de três produtos e informe qual produto você deve comprar, sabendo que a decisão é sempre pelo mais barato._
 
+**09 -** _Faça um Programa que leia três números e mostre-os em ordem decrescente._
+
+**10 -** _Faça um Programa que pergunte em que turno você estuda. Peça para digitar M-matutino ou V-Vespertino ou N- Noturno. Imprima a mensagem "Bom Dia!", "Boa Tarde!" ou "Boa Noite!" ou "Valor Inválido!", conforme o caso._
+
 
 
 ### :file_folder: [Listas](https://github.com/Kmiatelli/Python-Codes/tree/master/Listas)
