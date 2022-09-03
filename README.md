@@ -124,6 +124,8 @@
 
 **10 -** _Faça um Programa que pergunte em que turno você estuda. Peça para digitar M-matutino ou V-Vespertino ou N- Noturno. Imprima a mensagem "Bom Dia!", "Boa Tarde!" ou "Boa Noite!" ou "Valor Inválido!", conforme o caso._
 
+**13 -** _Faça um Programa que leia um número e exiba o dia correspondente da semana. (1-Domingo, 2- Segunda, etc.), se digitar outro valor deve aparecer valor inválido._
+
 
 
 ### :file_folder: [Listas](https://github.com/Kmiatelli/Python-Codes/tree/master/Listas)
