@@ -152,6 +152,10 @@ _O programa deve no final emitir uma classificação sobre a participação da p
 
 **03 -** _Faça um Programa que leia 4 notas, mostre as notas e a média na tela._
 
+**04 -** _Faça um Programa que leia um vetor de 10 caracteres, e diga quantas consoantes foram lidas. Imprima as consoantes._
+
+**05 -** _Faça um Programa que leia 20 números inteiros e armazene-os num vetor. Armazene os números pares no vetor PAR e os números IMPARES no vetor impar. Imprima os três vetores._
+
 
 
 #### :mag_right: Exercícios retirados da lista: 
