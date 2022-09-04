@@ -1,8 +1,8 @@
 
 
-#### :mag_right: Exercícios retirados da página: 
+### :mag_right: Exercícios retirados da página: 
 
-###### :link:https://wiki.python.org.br/ListaDeExercicios
+#### :link:https://wiki.python.org.br/ListaDeExercicios
 
 ______
 
