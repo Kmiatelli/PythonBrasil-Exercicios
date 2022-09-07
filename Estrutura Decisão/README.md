@@ -40,6 +40,22 @@
 
 _O programa deve no final emitir uma classificação sobre a participação da pessoa no crime. Se a pessoa responder positivamente a 2 questões ela deve ser classificada como "Suspeita", entre 3 e 4 como "Cúmplice" e 5 como "Assassino". Caso contrário, ele será classificado como "Inocente"._
 
+**26 -** _Um posto está vendendo combustíveis com a seguinte tabela de descontos:_
+
+​	<u>**a) Álcool:**</u>
+
+​	_- até 20 litros, desconto de 3% por litro_
+
+​	_- acima de 20 litros, desconto de 5% por litro_
+
+​	<u>**b) Gasolina:**</u>
+
+​	_- até 20 litros, desconto de 4% por litro_
+
+​	_- acima de 20 litros, desconto de 6% por litro_
+
+_Escreva um algoritmo que leia o número de litros vendidos, o tipo de combustível (codificado da seguinte forma: A-álcool, G-gasolina), calcule e imprima o valor a ser pago pelo cliente sabendo-se que o preço do litro da gasolina é R$ 2,50 o preço do litro do álcool é R$ 1,90._
+
 **27 -**  _Uma fruteira está vendendo frutas com a seguinte tabela de preços:_
 
 |         |    Até 5 kg    | Acima de 5 kg  |
