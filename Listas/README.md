@@ -12,3 +12,6 @@
 
 **06 -** _Faça um Programa que peça as quatro notas de 10 alunos, calcule e armazene num vetor a média de cada aluno, imprima o número de alunos com média maior ou igual a 7.0._
 
+**07 -** _Faça um Programa que leia um vetor de 5 números inteiros, mostre a soma, a multiplicação e os números._
+
+**08 -** _Faça um Programa que peça a idade e a altura de 5 pessoas, armazene cada informação no seu respectivo vetor. Imprima a idade e a altura na ordem inversa a ordem lida._

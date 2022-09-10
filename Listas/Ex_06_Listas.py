@@ -5,7 +5,7 @@ imprima o número de alunos com média maior ou igual a 7.0.
 
 listaMedia = []
 
-for aluno in range(1, 4):
+for aluno in range(1, 11):
     soma = 0
 
     print('Aluno: ', aluno)
